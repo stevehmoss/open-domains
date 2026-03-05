@@ -1,1 +1,23 @@
-
+{
+    "domain": "is-local.org",
+    "subdomain": "henry-john-moss",
+    "owner": {
+        "repo": "https://github.com/stevehmoss/open-domains",
+        "email": "stevehmoss@proton.me"
+    },
+    "record": {
+        "CNAME": "henry-john-moss.github.io"
+    },
+    "proxied": true
+}{
+    "domain": "is-local.org",
+    "subdomain": "henry-john-moss",
+    "owner": {
+        "repo": "https://github.com/stevehmoss/open-domains",
+        "email": "stevehmoss@proton.me"
+    },
+    "record": {
+        "CNAME": "henry-john-moss.github.io"
+    },
+    "proxied": true
+}
